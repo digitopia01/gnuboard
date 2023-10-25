@@ -1,2 +1,2 @@
 # gnuboard
-gnuboard practice
+그누보드 게시판 사용 방법을 연습한 레파지토리입니다.
